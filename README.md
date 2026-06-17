@@ -1,4 +1,4 @@
-Hi 👋, I'm Priyanka Madankar
+ 👋, I'm Priyanka Madankar
 
 🚀 B.Tech IT Student | Machine Learning Enthusiast | Aspiring Software Developer
 
