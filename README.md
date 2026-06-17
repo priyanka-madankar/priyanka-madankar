@@ -128,7 +128,7 @@ Performed data analysis and visualization to uncover customer spending patterns 
 
 🏫 Rai Technology University, Bangalore
 
-📅 Currently in 2nd Semester
+📅 Currently in 3rd Semester
 
 ---
 
